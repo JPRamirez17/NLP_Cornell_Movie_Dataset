@@ -1,6 +1,6 @@
 # Politecnico di Milano - Cornell Movie Dialog dataset Project
 
-This repository contains the project work of a group of students from Politectnico di Milano who were assigned the Cornell Movie Dialog dataset. This dataset is a valuable resource for studying natural language understanding and generation in the context of movie dialogues. It offers insights into conversational patterns, linguistic style, emotion, and storytelling prevalent in movies across different genres.
+This repository contains the project work of a group of students from Politectnico di Milano who were assigned the Cornell Movie Dialog dataset for their NLP course. This dataset is a valuable resource for studying natural language understanding and generation in the context of movie dialogues. It offers insights into conversational patterns, linguistic style, emotion, and storytelling prevalent in movies across different genres.
 
 ## About the Dataset
 
