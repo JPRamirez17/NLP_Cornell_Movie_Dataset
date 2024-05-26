@@ -29,9 +29,14 @@ The Cornell Movie Dialog Dataset is a collection of fictional conversations extr
 Our main objectives for this project include:
 
 - Conduct comprehensive exploratory data analysis (EDA) to gain insights into the structure, content, and characteristics of the dataset.
-- Apply various natural language processing (NLP) techniques and algorithms to analyze the dialogues within the dataset. (sentiment analysis, topic modeling, named entity recognition, part-of-speech tagging, and dialog act classification)
-- Develop and evaluate machine and deep learning models for conversational modeling.
-- ...
+
+- Apply various natural language processing (NLP) techniques and algorithms to analyze the dialogues within the dataset. (indexing, topic modeling, clustering, PoS tagging)
+
+- Implement and compare various movie dialogue generation models (encoder-decoder, attention mechanisms, pre-trained models, fine-tuning).
+
+- Build and evaluate classification regression models to predict metadata for movie dialogues (linear models, pre-trained models, fine-tuning).
+
+- Develop a chatbot that can mimic the responses of a specific movie character, incorporating speech-to-text and text-to-speech functionalities for seamless interaction.
 
 ## Contributors
 
